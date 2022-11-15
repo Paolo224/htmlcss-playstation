@@ -96,3 +96,24 @@ i {
 .sfondo-blu{
     background-color: #161c3b;
 }
+
+footer{
+    background-color: #00439c;
+    margin-top: 3rem;
+}
+
+footer ul li{
+    list-style-type: none;
+}
+
+.language-globe{
+    width: 20px;
+}
+
+.sie-logo{
+    width: 150px;
+}
+
+.info{
+    text-decoration: underline;
+}
