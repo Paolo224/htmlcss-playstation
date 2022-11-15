@@ -76,7 +76,7 @@ i {
 
 .takes-two{
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
-    height: 700px;
+    height: 600px;
     background-size: cover;
     background-position: center;
 }
@@ -91,6 +91,7 @@ i {
 
 .sfondo-grigio{
     background-color: #bebcbb;
+    /* height: 300px; */
 }
 
 .sfondo-blu{
