@@ -63,6 +63,17 @@ i {
     background-position: center;
 }
 
+.takes-two{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    height: 700px;
+    background-size: cover;
+    background-position: center;
+}
+
 .bordo-arrotondato{
     border-radius: 1rem;
+}
+
+.sfondo-nero{
+    background-color: #1f1f1f;
 }
