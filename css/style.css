@@ -40,6 +40,11 @@ main{
     background-color: #2d64e6;
 }
 
+#button-transparent{
+    color: blue;
+    background-color: #d9dadc;
+}
+
 i {
     font-size: 1.5rem;
 }
@@ -76,4 +81,8 @@ i {
 
 .sfondo-nero{
     background-color: #1f1f1f;
+}
+
+.sfondo-grigio{
+    background-color: #bebcbb;
 }
