@@ -32,6 +32,10 @@
     font-weight: bold;
 }
 
+#button-blu{
+    background-color: #2d64e6;
+}
+
 i {
     font-size: 1.5rem;
 }
@@ -49,7 +53,12 @@ i {
 }
 
 .returnal{
-    background-image: url(../img/returnal-listing-thumb-01-ps5.jpg);
-    height: 800px;
+    background-image: url(../img/jumbo-bg.png);
+    height: 700px;
     background-size: cover;
+    background-position: center;
+}
+
+.bordo-arrotondato{
+    border-radius: 1rem;
 }
