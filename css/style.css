@@ -45,6 +45,12 @@ main{
     background-color: #d9dadc;
 }
 
+#button-white{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
 i {
     font-size: 1.5rem;
 }
@@ -85,4 +91,8 @@ i {
 
 .sfondo-grigio{
     background-color: #bebcbb;
+}
+
+.sfondo-blu{
+    background-color: #161c3b;
 }
